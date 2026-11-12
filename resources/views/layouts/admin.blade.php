@@ -112,10 +112,8 @@
                             Administración
                         </div>
 
-                        <a class="nav-link" href="#">
-                            <div class="sb-nav-link-icon">
-                                <i class="fas fa-seedling"></i>
-                            </div>
+                        <a href="{{ route('insumos.index') }}" class="nav-link">
+                            <i class="bi bi-flower1"></i>
                             Insumos
                         </a>
 
