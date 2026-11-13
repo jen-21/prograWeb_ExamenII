@@ -118,10 +118,8 @@
                         </a>
 
 
-                        <a class="nav-link" href="#">
-                            <div class="sb-nav-link-icon">
-                                <i class="fas fa-truck"></i>
-                            </div>
+                        <a href="{{ route('proveedores.index') }}" class="nav-link">
+                            <i class="bi bi-truck"></i>
                             Proveedores
                         </a>
 
