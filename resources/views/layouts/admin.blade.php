@@ -123,7 +123,7 @@
                             Proveedores
                         </a>
 
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="{{ route('empleados.index') }}">
                             <div class="sb-nav-link-icon">
                                 <i class="fas fa-users"></i>
                             </div>
